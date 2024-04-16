@@ -6,7 +6,7 @@ import numpy as np
         
 car_data = pd.read_csv('vehicles_us.csv') # leer los datos
 
-st.header('Proyecto Sprint 5: ddddd ')
+st.header('Proyecto Sprint 5')
 st.write('Prueba: Juan Villano')
 
 
