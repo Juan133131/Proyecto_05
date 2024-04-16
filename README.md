@@ -14,3 +14,5 @@ Diagrama de dispersión de precio vs millas:
 Examina la relación entre el precio y el millas de los vehículos en un gráfico de dispersión interactivo.
 Ofrece una breve observación sobre la correlación inversa entre el precio y las millas.
 Calcula y muestra el coeficiente de correlación entre el precio y las millas.
+
+https://proyecto-05-px5f.onrender.com
